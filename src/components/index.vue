@@ -611,7 +611,7 @@ export default {
         padding: 0;
 		.item {
 			width: 200px;
-            height: 65px;
+            height: 62px;
             border-bottom: 3px solid #EDC29C;
 			.normal {
 				padding: 22px 0 22px 18px;
