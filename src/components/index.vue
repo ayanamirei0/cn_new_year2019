@@ -363,7 +363,7 @@
 									 target="_blank"
 									 href="https://www.juren.com/index.php?m=content&c=index&a=show&catid=126&id=2792"
 									>详情</a>
-										<span>></span>
+									<span>></span>
 							</div>
 						</div>
 					</vuescroll>
@@ -690,7 +690,7 @@ export default {
 				width: 200px;
 				margin: 0 26px 22px 0;
 			}
-			img:hover {
+			img:hover {     //鼠标悬停图片变大
 				transform: scale(1.2);
 				-webkit-transform: scale(1.2); /*Safari 和 Chrome*/
 				-moz-transform: scale(1.2); /*Firefox*/
